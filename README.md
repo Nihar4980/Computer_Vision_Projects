@@ -1,3 +1,6 @@
 # Computer_Vision_Project
 
-- This repo is dedicated to computer vision application
+- This repository is dedicated to computer vision application
+
+# Cloning repository
+git clone --recurse-submodules 
